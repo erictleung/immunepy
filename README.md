@@ -18,3 +18,9 @@ pip install .
 ## Abstraction
 
 ![](img/cell_lineages.png)
+
+<figcaption>
+Source:
+https://commons.wikimedia.org/wiki/File:Hematopoiesis_(human)_diagram_en.svg
+</figcaption>
+
